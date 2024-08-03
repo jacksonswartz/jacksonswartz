@@ -1,6 +1,4 @@
-- @jacksonswartz
-- University of Chicago Class of 2025
-- BS in Molecular Engineering
+Engineering and physics major at the University of Chicago.
 
 <!---
 jacksonswartz/jacksonswartz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
